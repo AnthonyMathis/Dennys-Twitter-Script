@@ -11,7 +11,7 @@ public class Main{
 
     public static void main(String []args) throws TwitterException, InterruptedException{
         String user="DennysDiner";
-        String message="First";
+        String message="";
         String consumerKey="";
         String consumerSecret="";
         String accessToken="";

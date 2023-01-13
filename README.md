@@ -1,5 +1,7 @@
 # Dennys-Twitter-Script
-### Script I created for Denny's twitter contest where the first 5 people reply win a pair of Denny's slippers. Tweet here: https://twitter.com/DennysDiner/status/1384144891127603205. 
+### Script I created for Denny's twitter contest where the first 5 people reply win a pair of Denny's slippers. 
+
+### Tweet for the contest: https://twitter.com/DennysDiner/status/1384144891127603205. 
 
 ### I used the twitter api to monitor a single users statuses and then reply to the newest one. 
 
